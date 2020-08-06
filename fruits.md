@@ -4,3 +4,4 @@
 - Pear
 - Orange
 - Banana
+- Mango
