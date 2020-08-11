@@ -5,4 +5,7 @@
 - Orange
 - Banana
 - Mango
+- Kumquat
 - Grapes
+- Snake fruit
+- Longan
